@@ -1,0 +1,38 @@
+.highlight {
+  background-color: saddlebrown;
+  color: white;
+  padding: 2px 5px;
+  border-radius: 3px;
+}
+
+.cat-action-badge {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border-radius: 1rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.bg-light-brown {
+  background-color: #A67C52;
+  color: #A67C52;
+  border: 1px solid #A67C52;
+}
+
+.carousel {
+  width: 50%;
+  max-width: 600px;
+  margin: 30px auto;
+}
+
+.img-fluid {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.bio {
+  font-size: 20px;
+}
